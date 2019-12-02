@@ -1,0 +1,25 @@
+body {
+  background: url('../images/gym.jpg') no-repeat center center fixed;
+}
+
+div {
+  color: #fff;
+  width: 50%;
+  text-align: center;
+  margin: 120px auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+button {
+  padding: 20px;
+  border-radius: 5px;
+  font-size: 2em;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+p {
+  font-size: 1.8em;
+}
